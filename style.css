@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+}
+body {
+  
+  text-align: center;
+  background-color: #fff;
+}
+h1 {
+  color: #000;
+}
+.navegador {
+  padding-top: 49px;
+  background-color: #97e4aa;
+  height: 38px;
+  border-bottom-left-radius: 10%;
+  border-bottom-right-radius: 10%;
+    
+}
+.contenedor {
+
+  border-bottom-left-radius: 10%;
+  border-bottom-right-radius: 10%;
+  padding: 3em;
+  margin: 0 auto;
+  width: 600px;
+  height: 100vh;
+  background-color: #fcd0d0;
+}
+.abajo {
+  display: block;
+  margin-top: 269px;
+}
+li {
+  list-style-type: none;
+}
